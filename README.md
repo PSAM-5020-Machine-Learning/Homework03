@@ -1,4 +1,4 @@
-# HW03
+# Homework03
 
 Some exercises with audio files and sample arrays.
 
